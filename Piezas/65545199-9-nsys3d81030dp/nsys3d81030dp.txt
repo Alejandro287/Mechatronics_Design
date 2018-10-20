@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-14092016-087137";"";
+"REFERENCE";"NSYS3D81030DP";"";
+"TraceParts.PartTitle";"Armarios murales de acero Spacial S3D - puerta ciega con placa de montaje";"";
+"TraceParts.InstanceId";"10-14092016-08713764489QMLGJ3WUXML49BK7E75S";"";
+"DESIGN";"S3D 2 puertas ciegas con placa de montaje. H800xW1000xD300";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"es";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC_DISTRI:/SCHNEIDER_DISTRI/F_SCHNEIDER_ELECTRIC_ENVEL/SCHNEIDER_ELECTRIC_ENVEL.120/SCHNEIDER_ELECTRIC_ENVEL.120.020/SCHNEIDER_ELECTRIC_ENVEL.120.020005/10-14092016-087137";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-22102010-066265";"";
+"REFERENCE";"TWDLCDA10DRF";"";
+"TraceParts.PartTitle";"TWIDO programmable controller - Compact base controller DC supply";"";
+"TraceParts.InstanceId";"10-22102010-0662655G7N7UJVIQBQ6UM09XV2QBH8E";"";
+"DESIGN";"TWIDO programmable controller, Compact base controller DC supply, 10 I/O";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC:/F_SCHNEIDER/F_TELEMECANIQUE/F_TELEMECANIQUE.09/F_TELEMECANIQUE.09.010/F_TELEMECANIQUE.09.010.010/10-22102010-066265";"";

@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-29052017-095310";"";
+"REFERENCE";"ABL2REM24150K";"";
+"TraceParts.PartTitle";"ABL2_K Power Supply,DC24V output,350W";"";
+"TraceParts.InstanceId";"10-29052017-095310F4CTJ69YKM146PSOVAQHEVOW0";"";
+"DESIGN";"ABL2_K Power Supply,DC24V output,350W";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC:/TRACEPARTS/TP09/TP09011/TP09011001/TP09011001002/10-29052017-095310";"";

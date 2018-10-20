@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-20102016-112778";"";
+"REFERENCE";"NSYCRN106250T";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartTitle";"Armarios murales de acero Spacial CRN - puerta con cristal sin placa de montaje";"";
+"TraceParts.InstanceId";"10-20102016-112778DLMFWMZN1EKFBGMY51K24F5MH";"";
+"TraceParts.PartLanguage";"es";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC_DISTRI:/TRACEPARTS/TP09/TP09003/TP09003001/10-20102016-112778";"";
+"SUPPLIER";"Schneider Electric";"";
+"DESIGN";"CRN puerta con cristal sin placa de montaje Alt.1000xAn.600xP250";"";
+"TraceParts.PartVersion";"1.0.0";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartStatusId";"";"";

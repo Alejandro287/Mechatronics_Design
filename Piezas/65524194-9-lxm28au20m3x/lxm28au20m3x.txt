@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"LXM28AU20M3X";"";
+"TraceParts.PartVersion";"1.0.6";"";
+"SUPPLIER";"Schneider Electric";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-26052015-091891";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Lexium28 IO and CAN drive - 2,0kW";"";
+"TraceParts.InstanceId";"10-26052015-0918915NHL8HBHD1JJMC0JZ5LJES7FE";"";
+"TraceParts.PartTitle";"Lexium 28 - Size 3";"";
+"OMNICLASS23";"23.35.17.00";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"SCHNEIDER_ELECTRIC:/F_SCHNEIDER/F_TELEMECANIQUE/F_TELEMECANIQUE.07/F_TELEMECANIQUE.07.070/F_TELEMECANIQUE.07.070.020/10-26052015-091891";"";
